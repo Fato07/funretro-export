@@ -20,8 +20,10 @@ To export an Easy Retro board, run the script with the board's URL, an optional 
 - `format1` for the original format,
 - `format2` for the format listed in the acceptance criteria:
 
+Make sure to include the correct file extension in the output file path (".txt" for format1, ".csv" for format2) to ensure proper file creation.
+
 ```shell
-npm start -- "https://easyretro.io/publicboard/CGvRainS7bR2EGjqtYcJFwq1w5F3/0d92f1f5-a1f9-4d28-bb69-3139d0772a8a" "exported-file" "format2"
+npm start -- "https://easyretro.io/publicboard/CGvRainS7bR2EGjqtYcJFwq1w5F3/0d92f1f5-a1f9-4d28-bb69-3139d0772a8a" "exported-file.csv" "format2"
 ```
 
 ## Issues
