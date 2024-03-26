@@ -22,9 +22,9 @@ To export an Easy Retro board, run the script with the board's URL, an optional 
 
 ```shell
 npm start -- "https://easyretro.io/publicboard/CGvRainS7bR2EGjqtYcJFwq1w5F3/0d92f1f5-a1f9-4d28-bb69-3139d0772a8a" "exported-file" "format2"
+```
 
 ## Issues
-
 If you encounter the following error
 ```
 Error: browserType.launch: Browser is not supported on current platform
