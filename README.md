@@ -40,7 +40,6 @@ PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD=true npm i -D playwright
 ## TODO
 
 - [x] Export card comments
-- [ ] PDF Format
 - [x] CSV Format
 
 ## Licensing
